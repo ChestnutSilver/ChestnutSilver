@@ -11,7 +11,7 @@
 - :basecamp: All open source assignments in my repositories are 100% original, excluding references that are reasonable and have been clearly written.
 - 📫 My blog is under construction and is expected to be completed on September 21, 2023. It is temporarily available at: [TJIS-My-Helloworld](https://chestnutsilver.github.io/TJIS-My-Helloworld).
 
-![ChestnutSilver's Github Stats](https://github-readme-stats.vercel.app/api?username=ChestnutSilver&show_icons=true&title_color=009999&icon_color=009999&text_color=333333&bg_color=fff)
+![ChestnutSilver's Github Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=ChestnutSilver&show_icons=true&title_color=009999&icon_color=009999&text_color=333333&bg_color=fff)
 
 
 <!--
