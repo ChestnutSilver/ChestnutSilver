@@ -3,7 +3,7 @@
 - 🌱 我目前正在学习推荐系统、数据分析和机器学习理论。
 - ✨ 我的仓库主要包含同济大学信息安全专业的相关课程资料。
 - :basecamp: 我的仓库中的所有开源作业都是 100% 原创的，合理且明确指出的引用资料不计算在内。
-- 📫 我现在正在建设我的博客，预计将于 2023 年 9 月 21 日 完成，它暂时可在：[TJIS-My-Helloworld](https://chestnutsilver.github.io/TJIS-My-Helloworld)。
+- 📫 我现在正在建设我的博客，预计将于 2023 年 10 月 8 日 完成，它暂时可在：[TJIS-My-Helloworld](https://chestnutsilver.github.io/TJIS-My-Helloworld)。
 
 ### Hi there 👋
 - 🌱 I’m currently learning Recommendation Systems, Data Analysis, and Machine Learning theory.
